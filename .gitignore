@@ -11,10 +11,6 @@ venv/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data files (optional, if you don't want to upload datasets)
-data/
-*.csv
-
 # OS files
 .DS_Store
 Thumbs.db
